@@ -1,16 +1,19 @@
 {
+  "logo": "AdRoll",
   "name": "adroll",
   "repo": "logo/adroll",
-  "images": [
-    "images/logo-black.svg",
-    "images/logo-white.svg",
-    "images/logo.svg"
-  ],
+  "description": "The AdRoll logo.",
+  "version": "0.0.2",
+  "license": "MIT",
   "styles": [
     "index.css"
   ],
-  "development": {
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
     "logo/logo": "*"
-  },
-  "license": "MIT"
+  }
 }
